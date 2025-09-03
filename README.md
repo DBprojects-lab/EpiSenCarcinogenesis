@@ -3,7 +3,7 @@ Analysis codes and documentations for "Integrative Transcriptomic Analysis Decod
 
 
 
-![](Figure/ALL.svg)
+![](Figure/图形摘要.tif)
 
 ## Codes used to identify Aging-dependent Senescence-associated Coregulated Modules(SACMs) in different tissues
 |Script name|Comment| 
